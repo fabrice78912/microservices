@@ -1,0 +1,10 @@
+com/fabricedev/productserv/dto/ProductResponse.class
+com/fabricedev/productserv/service/ProductService.class
+com/fabricedev/productserv/model/Product.class
+com/fabricedev/productserv/dto/ProductRequest.class
+com/fabricedev/productserv/ProductServApplication.class
+com/fabricedev/productserv/controller/ProductController.class
+com/fabricedev/productserv/dto/ProductResponse$ProductResponseBuilder.class
+com/fabricedev/productserv/dto/ProductRequest$ProductRequestBuilder.class
+com/fabricedev/productserv/repository/ProductRepository.class
+com/fabricedev/productserv/model/Product$ProductBuilder.class

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.fabricedev.productserv.ProductServApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 34.12 s <<< FAILURE! - in com.fabricedev.productserv.ProductServApplicationTests
+shouldCreateProduct  Time elapsed: 0.225 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "org.testcontainers.shaded.com.fasterxml.jackson.databind.ObjectMapper.writeValueAsString(Object)" because "this.objectMapper" is null
+	at com.fabricedev.productserv.ProductServApplicationTests.shouldCreateProduct(ProductServApplicationTests.java:48)
+

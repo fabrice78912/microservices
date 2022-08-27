@@ -1,0 +1,7 @@
+/Users/fabricefoko/Documents/Projets_JAVA/microservices-new/product-serv/src/main/java/com/fabricedev/productserv/ProductServApplication.java
+/Users/fabricefoko/Documents/Projets_JAVA/microservices-new/product-serv/src/main/java/com/fabricedev/productserv/model/Product.java
+/Users/fabricefoko/Documents/Projets_JAVA/microservices-new/product-serv/src/main/java/com/fabricedev/productserv/repository/ProductRepository.java
+/Users/fabricefoko/Documents/Projets_JAVA/microservices-new/product-serv/src/main/java/com/fabricedev/productserv/dto/ProductResponse.java
+/Users/fabricefoko/Documents/Projets_JAVA/microservices-new/product-serv/src/main/java/com/fabricedev/productserv/service/ProductService.java
+/Users/fabricefoko/Documents/Projets_JAVA/microservices-new/product-serv/src/main/java/com/fabricedev/productserv/dto/ProductRequest.java
+/Users/fabricefoko/Documents/Projets_JAVA/microservices-new/product-serv/src/main/java/com/fabricedev/productserv/controller/ProductController.java

@@ -1,0 +1,8 @@
+com/fabricedev/orderserv/repository/OrderRepository.class
+com/fabricedev/orderserv/model/Order.class
+com/fabricedev/orderserv/dto/OrderLineItemsDto.class
+com/fabricedev/orderserv/dto/OrderRequest.class
+com/fabricedev/orderserv/OrderServApplication.class
+com/fabricedev/orderserv/model/OrderLineItems.class
+com/fabricedev/orderserv/service/OrderService.class
+com/fabricedev/orderserv/controller/OrderController.class

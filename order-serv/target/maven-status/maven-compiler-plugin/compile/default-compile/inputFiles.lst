@@ -1,0 +1,8 @@
+/Users/fabricefoko/Documents/Projets_JAVA/microservices-new/order-serv/src/main/java/com/fabricedev/orderserv/dto/OrderRequest.java
+/Users/fabricefoko/Documents/Projets_JAVA/microservices-new/order-serv/src/main/java/com/fabricedev/orderserv/controller/OrderController.java
+/Users/fabricefoko/Documents/Projets_JAVA/microservices-new/order-serv/src/main/java/com/fabricedev/orderserv/model/OrderLineItems.java
+/Users/fabricefoko/Documents/Projets_JAVA/microservices-new/order-serv/src/main/java/com/fabricedev/orderserv/repository/OrderRepository.java
+/Users/fabricefoko/Documents/Projets_JAVA/microservices-new/order-serv/src/main/java/com/fabricedev/orderserv/dto/OrderLineItemsDto.java
+/Users/fabricefoko/Documents/Projets_JAVA/microservices-new/order-serv/src/main/java/com/fabricedev/orderserv/OrderServApplication.java
+/Users/fabricefoko/Documents/Projets_JAVA/microservices-new/order-serv/src/main/java/com/fabricedev/orderserv/model/Order.java
+/Users/fabricefoko/Documents/Projets_JAVA/microservices-new/order-serv/src/main/java/com/fabricedev/orderserv/service/OrderService.java

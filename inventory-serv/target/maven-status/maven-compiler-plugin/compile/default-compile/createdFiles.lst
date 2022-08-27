@@ -1,0 +1,5 @@
+com/fabricedev/inventoryserv/repository/InventoryRepository.class
+com/fabricedev/inventoryserv/model/Inventory.class
+com/fabricedev/inventoryserv/controller/InventoryController.class
+com/fabricedev/inventoryserv/InventoryServApplication.class
+com/fabricedev/inventoryserv/service/InventoryService.class
